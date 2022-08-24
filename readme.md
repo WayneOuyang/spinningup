@@ -1,6 +1,6 @@
 **Status:** Maintenance (expect bug fixes and minor updates)
 
-Welcome to Spinning Up in Deep RL! fight fight fight!!!!!
+Welcome to Spinning Up in Deep RL! fight fight fight and go go go!!!!!
 ==================================
 
 This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
